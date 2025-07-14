@@ -1,7 +1,9 @@
-{
-  "domains": [
-    "https://client.followcloud.space/",
-    "https://dog.followcloud.space/",
-    "https://test.followcloud.space/"
-  ]
-}
+  {
+    "version": 1,
+    "software_version": 0.01,
+    "domains": [
+      "https://client.followcloud.space/",
+      "https://dog.followcloud.space/",
+      "https://test.followcloud.space/"
+    ]
+  }
