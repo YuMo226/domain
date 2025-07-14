@@ -1,3 +1,7 @@
-https://client.followcloud.space/
-https://dog.followcloud.space/
-https://test.followcloud.space/
+{
+  "domains": [
+    "https://client.followcloud.space/",
+    "https://dog.followcloud.space/",
+    "https://test.followcloud.space/"
+  ]
+}
